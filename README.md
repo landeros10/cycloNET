@@ -4,7 +4,7 @@
 
 This project directory contains the cycloNET image analysis package, which includes various Python scripts, a saved TensorFlow model, and test image files. The package is designed for analyzing human multiplexed data. This README provides an overview of the directory structure, file descriptions, and instructions for running the analysis.
 
-![Example Image](./app/test_files/HumanSamples_Eval_test2/Bx001_cycle1_w1GFP_s1.png)
+![Example Image](./example.png)
 
 
 ## Directory Structure and Folder Descriptions
